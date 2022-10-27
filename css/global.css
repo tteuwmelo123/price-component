@@ -5,6 +5,9 @@
     box-sizing: border-box;
     font-family: 'Karla', sans-serif;
 }
+body{
+    background: var(--Light-cyan);
+}
 main {
     padding-top: 4.5rem;
     padding-inline: 2rem;
